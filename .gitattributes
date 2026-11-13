@@ -1,0 +1,13 @@
+* text=auto
+
+# Windows 批处理按 CRLF 检出，避免 cmd.exe 解析异常
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# 源码与静态资源统一 LF
+*.py   text eol=lf
+*.js   text eol=lf
+*.css  text eol=lf
+*.html text eol=lf
+*.svg  text eol=lf
+*.md   text eol=lf
