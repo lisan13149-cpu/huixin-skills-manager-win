@@ -1,5 +1,7 @@
 # 汇芯技能管家 · Windows 本地版
 
+仓库：<https://github.com/lisan13149-cpu/huixin-skills-manager-win> ｜ macOS 原版：<https://github.com/sixwei2025/huixin-skills-manager>
+
 把 WorkBuddy、Claude Code、Codex、Gemini、Grok Bot、Agents 六个地方的技能，收进一个中文界面：
 按用途分类、中文名搜索、看说明、复制调用名、打开文件位置。
 
